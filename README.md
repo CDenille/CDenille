@@ -1,6 +1,5 @@
 ### Hi, I'm Denille 
-
- <img src="https://www.canva.com/design/DAFpS8gj9rk/view">
+![Readme-Header](https://i.pinimg.com/originals/e5/56/78/e55678d003ace216b432ad040e1924db.png)
 <!--
 **CDenille/CDenille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
