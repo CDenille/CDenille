@@ -1,5 +1,7 @@
 ### Hi, I'm Denille 
 ![Readme-Header](https://i.pinimg.com/originals/e5/56/78/e55678d003ace216b432ad040e1924db.png)
+
+I'm a software engineer who is passionate about creating user friendly web apps and expanding access to technology. Some techologies I've worked with include Angular, JavaScript, Java and C++. I recently completed a software engineer apprenticeship at Google. To follow my progress, follow me on [LinkedIn](https://www.linkedin.com/in/denille-carrington-a59bb2126/).
 <!--
 **CDenille/CDenille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
